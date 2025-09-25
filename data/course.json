@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "legacy_uid": "72d64a66-377d-882f-4e15-f2b853383792",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "38d34914-7a2d-4f09-e7e8-f31377fc6436",
+    "website": "21a-429j-environmental-conflict-fall-2016"
+  },
+  "course_title": "Environmental Conflict",
+  "course_description": "This course explores the complex interrelationships among humans and natural environments, focusing on non-western parts of the world in addition to Europe and the United States. It uses environmental conflict to draw attention to competing understandings and uses of \"nature\" as well as the local, national and transnational power relationships in which environmental interactions are embedded. In addition to utilizing a range of theoretical perspectives, this subject draws upon a series of ethnographic case studies of environmental conflicts in various parts of the world.\n",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.320J",
+  "primary_course_number": "21A.429J",
+  "course_image_thumbnail": {
+    "content": "e1eb6a64-1ebd-8680-e07c-53e15e22f366",
+    "website": "21a-429j-environmental-conflict-fall-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ac6fe960-c5e8-4d8c-ac97-ee50a0e8c3e7",
+  "site_short_id": "21a.429j-fall-2016",
+  "site_url_path": "courses/21a-429j-environmental-conflict-fall-2016",
+  "title": "Course Metadata"
+}
